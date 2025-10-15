@@ -1,0 +1,17 @@
+image_name,style,color,pattern,material,estimated_pricing,gender,events,type_of_clothing
+dogdabredhoodie.jpg,streetwear,#FF0000,graphic,cotton blend,$30-$50,unisex,casual,hoodie
+denimjacket.png,casual,#7FAAD9,solid,denim with sherpa lining,$60 - $100,unisex,"casual, outdoor",denim jacket
+whitetshirt_wornbyperson.jpg,casual,#FFFFFF,solid,cotton,$15,male,casual,T-shirt
+minkfurcoat.jpg,formal,#808080,solid,fur,$800 - $1500,male,"formal, winter events",coat
+whitetshirt_womensoffwhite.png,casual,#FFFFFF,solid,cotton,$10-$25,unisex,casual,T-shirt
+flanneljacket.png,casual,#3A5F87,plaid,flannel with quilted lining,$80-$120,male,"casual, outdoor",hooded plaid shirt jacket
+whitecotton.jpg,casual,#FFFFFF,textured cable knit,cotton blend,$25-$40,male,"casual, summer outings",short sleeve collared shirt
+whitetshirt_womensstretchjerseybabytee.png,casual,#FFFFFF,solid,cotton,$20-$40,female,casual,t-shirt
+dogdabredhoodie.jpg,streetwear,#FF0000,graphic,cotton/polyester blend,$30-$50,unisex,casual,hoodie
+denimjacket.png,casual,#8AB4F8,solid,denim with sherpa lining,$60-$120,male,"casual, outdoor",denim jacket
+whitetshirt_midweightmens.png,casual,#FFFFFF,solid,cotton,$40,unisex,casual,T-shirt
+minkfurcoat.jpg,formal,#8c8c8c,solid,fur,$300-$600,male,"formal, evening, winter events",coat
+orangestripeshirt.jpg,casual,#FFA500,striped,polyester,$20 - $40,male,casual,short sleeve collared shirt
+flanneljacket.png,casual,#2b4d87,plaid,cotton blend with quilted lining,$80,male,"casual, outdoor",hooded jacket
+whitecotton.jpg,casual,#FFFFFF,textured cable knit,cotton blend,$30-$50,male,casual,short sleeve collared shirt
+whitetshirt_womensstretchjerseybabytee.png,casual,#FFFFFF,solid,cotton,$20-$40,female,casual,T-shirt

@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres
+    container_name: database
+    restart: always
+    environment:
+      POSTGRES_DB: clothing
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: backend
+    depends_on:
+      - db
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://db:5432/clothing
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: postgres
+      JWT_SECRET: K2jDjEPBDJ99StJrE7f6Mmfx8ndnR6erFD4w8TPPm2g=
+      JWT_EXPIRATION: 3600000
+    ports:
+      - "8080:8080"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      # Mount the frontend directory to enable live code reloading
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+
+volumes:
+  postgres-data:

@@ -1,0 +1,9 @@
+image_name,style,color,pattern,material,estimated_pricing,gender,events,type_of_clothing
+dogdabredhoodie.jpg,streetwear,#d11c1c,graphic print,cotton blend,mid-range,unisex,"casual, everyday wear",hoodie
+denimjacket.png,casual,#8cb6d9,solid,denim with sherpa lining,$50-$80,unisex,"casual outings, cool weather",jacket
+whitetshirt_wornbyperson.jpg,streetwear,#FFFFFF,solid,cotton,affordable,male,"casual outings, everyday wear",t-shirt
+whitetshirt_midweightmens.png,casual,#FFFFFF,solid,cotton,mid-range,unisex,"everyday wear, casual outings",t-shirt
+minkfurcoat.jpg,luxury,#85888a,solid,fur,high,male,"formal, cold weather outings",coat
+whitetshirt_womensoffwhite.png,casual,#f0f0f0,solid,cotton,low,unisex,"everyday, casual outings",t-shirt
+flanneljacket.png,streetwear,#2a5494,plaid,flannel with quilted lining,$80-$150,unisex,"casual, outdoor, everyday wear",hooded flannel jacket
+whitecotton.jpg,casual,#FFFFFF,textured cable knit,cotton or cotton blend,mid-range,unisex,"casual outings, summer gatherings",short-sleeve button-up shirt

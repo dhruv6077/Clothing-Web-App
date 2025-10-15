@@ -1,0 +1,8 @@
+image_name,style,color,pattern,material,estimated_pricing,gender,events,type_of_clothing
+denimjacket.png,casual,#85a4c5,solid,denim with sherpa lining,$60-$90,unisex,"casual, outdoor, everyday wear",denim jacket
+whitetshirt_wornbyperson.jpg,casual,#FFFFFF,solid,cotton,$15,male,casual,T-shirt
+whitetshirt_midweightmens.png,casual,#FFFFFF,solid,cotton,$50,unisex,casual,T-shirt
+minkfurcoat.jpg,formal,#8c8c8c,solid,fur,$500-$1000,female,"formal, evening events, winter outings",coat
+orangestripeshirt.jpg,casual,#F5A623,vertical stripes,polyester,$25,male,casual,short sleeve button-up shirt
+whitetshirt_womensoffwhite.png,casual,#FFFFFF,solid,cotton,$15-$30,unisex,casual,T-shirt
+flanneljacket.png,casual,#2a4f72,plaid,flannel,$60-$90,male,"casual, outdoor, fall/winter",hooded flannel shirt jacket

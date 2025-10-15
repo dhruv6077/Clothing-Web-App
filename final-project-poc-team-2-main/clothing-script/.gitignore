@@ -1,0 +1,5 @@
+#gitignore venv folder
+
+venv/
+
+.env

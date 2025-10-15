@@ -1,0 +1,11 @@
+- Kevin todo
+
+- [ x ] Survey backend:
+    - [ x ] model
+    - [ x ] controller
+    - [ x ] repo
+    - [ x ] test api routes
+- [ ] survey frontend:
+    - [ ] button to take survery
+    - [ x ] survey ui
+    - [ x ] survey api call

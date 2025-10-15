@@ -1,0 +1,8 @@
+image_name,style,color,pattern,material,estimated_pricing,gender,events,type_of_clothing
+dogdabredhoodie.jpg,casual,#FF0000,graphic,cotton blend,$30-$50,unisex,"casual outings, lounging, streetwear",hoodie
+denimjacket.png,casual,#90b7d3,solid,denim with sherpa lining,70,unisex,"casual outings, everyday wear",jacket
+whitetshirt_wornbyperson.jpg,casual,#FFFFFF,solid,cotton,20,male,"casual outings, everyday wear",shirt
+whitetshirt_midweightmens.png,casual,#FFFFFF,solid,cotton,70,unisex,"casual, everyday, informal",shirt
+minkfurcoat.jpg,"luxurious, formal",#7f7f7f,solid,real fur,$1500,female,"formal events, evening outings, cold weather occasions",coat
+whitetshirt_womensoffwhite.png,casual,#FFFFFF,solid,cotton,$15,unisex,"everyday casual, informal gatherings",shirt
+flanneljacket.png,casual,#346899,plaid,flannel with quilted lining,80,male,"casual outings, outdoor activities, weekend wear",jacket
